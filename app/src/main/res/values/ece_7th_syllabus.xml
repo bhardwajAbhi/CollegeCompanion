@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ece_7th_subjects">
+    <item>Computer Networks &amp; Data Communication</item>
+    <item>Microwave &amp; Radar Engineering</item>
+    <item>Optical Communication</item>
+    <item>VLSI Design</item>
+  </string-array>
+</resources>

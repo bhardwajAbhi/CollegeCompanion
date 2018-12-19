@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string-array name="odd_sem_events">
+
+    <item>Reporting Date for Faculty</item>
+    <item>Registration for Under-Graduate &amp; Post-Graduate Classes</item>
+    <item>Commencement of Under-Graduate &amp; Post-Graduate Classes</item>
+    <item>Mandatory Induction Program for 1st year Students (3 Weeks)</item>
+    <item>Last Date for Registration by the College</item>
+    <item>1st Periodic Examination</item>
+    <item>HPTU Youth Festival</item>
+    <item>Mid Semester Break</item>
+    <item>2nd Periodical Examination</item>
+    <item>End of Class Work</item>
+    <item>Reporting of Shortage of Attendance Cases &amp; Display of Internal Sessional Awards</item>
+    <item>End Semester Practical Examinations</item>
+    <item>End Semester Theory Examinations</item>
+    <item>Evaluation of Answer Scripts</item>
+    <item>Winter Break for Faculty</item>
+  </string-array>
+
+  <string-array name="odd_sem_events_dates">
+    <item>21/07/2018</item>
+    <item>31/07/2018</item>
+    <item>01/08/2018</item>
+    <item>02/08/2018 to 23/08/2018</item>
+    <item>04/08/2018</item>
+    <item>17/09/2018 to 20/09/2018</item>
+    <item>11/10/2018 to 12/10/2018</item>
+    <item>18/10/2018 to 21/10/2018</item>
+    <item>29/10/2018 to 01/11/2018</item>
+    <item>17/11/2018</item>
+    <item>19/11/2018</item>
+    <item>21/11/2018 to 28/11/2018</item>
+    <item>01/12/2018 to 18/12/2018</item>
+    <item>20/12/2018 to 27/12/2018</item>
+    <item>28/12/2018 to 05/01/2019</item>
+
+  </string-array>
+
+
+
+
+  <string-array name="even_sem_events">
+
+    <item>Reporting Date for Faculty</item>
+    <item>Registration for Under-Graduate &amp; Post-Graduate Classes</item>
+    <item>Commencement of Under-Graduate &amp; Post-Graduate Classes</item>
+    <item>Last Date for Registration by the College</item>
+    <item>1st Periodic Examination</item>
+    <item>Mid Semester Break</item>
+    <item>HPTU Inter College Sports Meet</item>
+    <item>2nd Periodic Examination</item>
+    <item>End of Class Work</item>
+    <item>Reporting of Shortage of Attendance Cases &amp; Display of Internal Sessional Awards</item>
+    <item>End Semester Practical Examinations</item>
+    <item>End Semester Theory Examinations</item>
+    <item>Evaluation of Answer Scripts</item>
+    <item>Summer Classes</item>
+    <item>Summer Break for Faculty</item>
+
+  </string-array>
+
+  <string-array name="even_sem_events_dates">
+    <item>07/01/2019</item>
+    <item>08/01/2019</item>
+    <item>09/01/2019</item>
+    <item>12/01/2019</item>
+    <item>18/02/2019 to 21/02/2019</item>
+    <item>25/02/2019 to 28/02/2019</item>
+    <item>07/03/2019 to 08/03/2019</item>
+    <item>01/04/2019 to 04/04/2019</item>
+    <item>18/04/2019</item>
+    <item>20/04/2019</item>
+    <item>22/04/2019 to 27/04/2019</item>
+    <item>01/05/2019 to 18/05/2019</item>
+    <item>10/05/2019 to 30/05/2019</item>
+    <item>20/05/2019 to 08/06/2019</item>
+    <item>10/06/2019 to 20/07/2019</item>
+  </string-array>
+
+
+
+</resources>

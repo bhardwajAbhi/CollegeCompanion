@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ece_5th_subjects">
+    <item>Digital Communication</item>
+    <item>Electromagnetic Field Theory</item>
+    <item>Electronic Measurement &amp; Measuring Instruments</item>
+    <item>Power Electronics</item>
+    <item>Intro to Micro-Controllers for Embedded Systems</item>
+  </string-array>
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+  <string name="app_name">College Companion</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="nav_header_title">Android Studio</string>
+  <string name="nav_header_subtitle">abhishekbhardwaj090@gmail.com</string>
+  <string name="nav_header_desc">Navigation header</string>
+  <string name="action_settings">Settings</string>
+  <string name="dummy_user_name">Abhishek Bhardwaj</string>
+  <string name="dummy_user_email">abhishekbhardwaj090@gmail.com</string>
+  <string name="dummy_user_phone">+91 9882769172</string>
+  <string name="dummy_text"><b>The State of Computing:</b> System attributes to performance, multiprocessors and multicomputer, shared memory and distributed memory, taxonomy of MIMD computers, multivector and SIMD computers, PRAM and VLSI models.\n\n<b>Parallelism:</b> Data and resource dependencies, hardware and software dependencies; Program Partitioning and Scheduling: grain sizes and latency, grain packaging and scheduling; Program Flow Mechanism: control flow versus data flow, demand driven mechanism, comparisons of flow mechanism; System Interconnect Architectures: network properties and routing, static connection networks.</string>
+
+
+  <!-- String Array for Weekday list view-->
+  <string-array name="weekdays">
+    <item>Monday</item>
+    <item>Tuesday</item>
+    <item>Wednesday</item>
+    <item>Thursday</item>
+    <item>Friday</item>
+    <item>Saturday</item>
+  </string-array>
+
+
+  <!-- String Array for Events list view-->
+  <string-array name="calendarEvents">
+    <item>Odd Semester</item>
+    <item>Even Semester</item>
+  </string-array>
+
+  <!-- String Array for Subject Syllabus Format list view-->
+  <string-array name="syllabus_format">
+    <item>Unit - 1</item>
+    <item>Unit - 2</item>
+    <item>Unit - 3</item>
+    <item>Unit - 4</item>
+    <item>Text Books</item>
+    <item>Reference Books</item>
+
+  </string-array>
+
+  <!-- String Array for Semester spinner-->
+  <string-array name="odd_semesters">
+    <item>1st Semester</item>
+    <item>3rd Semester</item>
+    <item>5th Semester</item>
+    <item>7th Semester</item>
+  </string-array>
+
+  <string-array name="even_semesters">
+    <item>2nd Semester</item>
+    <item>4th Semester</item>
+    <item>6th Semester</item>
+    <item>8th Semester</item>
+  </string-array>
+
+</resources>

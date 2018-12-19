@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string-array name="cse_7th_subjects">
+    <item>Advance Computer Architecture</item>
+    <item>Wireless &amp; Mobile Computing</item>
+    <item>Information Security</item>
+    <item>Cloud Computing</item>
+    <item>Web Technology</item>
+  </string-array>
+
+  <string-array name="CS_701">
+    <item>
+      <b>The State of Computing:</b> System attributes to performance, multiprocessors and multicomputer, shared memory and distributed memory, taxonomy of MIMD computers, multivector and SIMD computers, PRAM and VLSI models.\n\n<b>Parallelism:</b> Data and resource dependencies, hardware and software dependencies; Program Partitioning and Scheduling: grain sizes and latency, grain packaging and scheduling; Program Flow Mechanism: control flow versus data flow, demand driven mechanism, comparisons of flow mechanism; System Interconnect Architectures: network properties and routing, static connection networks.\n
+    </item>
+
+    <item>
+      <b>Performance Metrics and Measures:</b> Parallelism profile in programs, harmonic mean performance, efficiency, utilization and quantity, standard performance measures, Speedup Performance Law: Amdahl\'s law for fixed workload, Gustafson\'s law for scaled problems, scalability analysis and approaches, scalability metrics and goals, evolution of scalable computers.\n\n<b>Advance Processor Technology:</b> Design space of processors, instruction set architecture, CISC and RISC scalar processors; Superscalar and Vector processors: superscalar processors, the VLIW architecture, vector and symbolic processors; Memory Hierarchy Technology: hierarchical memory technology, inclusion, coherence and locality, memory capacity planning.\n
+    </item>
+
+    <item>
+      <b>Multiprocessor System Interconnects:</b> Hierarchical bus system, crossbar switch and, multiport memory, multistage and combining networks; cache coherence and synchronization mechanism, the cache coherence problem, snoopy bus protocol, directory based protocols, hardware synchronization mechanisms.\n\n
+
+      <b>Vector Processing Principles:</b> Vector instruction types, vector access memory schemes.\n\n
+
+      <b>Multivector Multiprocessors:</b> Performance directed design rules, Cray Y – MP, C-90 and MPP, SIMD computer organization: implementation models, the CM-2 architecture, introduction to multicore architecture.\n
+    </item>
+
+    <item>
+      <b>Parallel Programming Models:</b>  Shared variable model, message passing model, data parallel model, object oriented model, function and logic models.\n\n
+
+      <b>Parallel Language and Compilers:</b> Language feature for parallelism, parallel language constructs, optimizing compiler for parallelism.\n\n
+
+      <b>Parallel Programming Environment:</b>  Software tools and environment, Y-MP, Pargon and CM-5 environment, visualization and performance testing.\n\n
+
+      <b>Synchronization and Multiprocessing Modes:</b> Principles of synchronization, multiprocessor execution models, shared-variable program structures, locks for protected access, semaphores and applications, monitors and application, message-passing program development, distributing the computation, synchronous message passing, asynchronous message passing.\n\n
+
+      <b>Mapping Programs on to Multicomputer:</b> Domain decomposition techniques, control decomposition techniques, heterogeneous processing.\n
+    </item>
+
+
+    <item>
+      1. Kai Hawang: <i><b>\"Advance Computer Architecture - Parallelism, Scalability and Programmability\"</b></i>, McGraw Hill International Edition.\n
+      2. Michael J.Quinn: <i><b>\"Parallel Computing - Theory and Practice\"</b></i>, McGraw Hill International.\n
+    </item>
+
+    <item>
+      1. Sima: <i><b>\"Advance Computer Architecture: A Design Space Approach\"</b></i>, Pearson Publication.\n
+      2. Kain: <i><b>\"Advance Computer Architecture\"</b></i>, PHI Publication.\n
+      3. S.G. Akl: <i><b>\"Design and Analysis of Parallel Algorithms\"</b></i>, Prentice Hall, Englewood Cliff NJ.\n
+      4. S.K Ghosal: <i><b>\"A Practical Appraoch to Parallel Computing\"</b></i>, University Press (India) Ltd.\n
+    </item>
+
+
+  </string-array>
+
+  <string-array name="CS_702">
+    <item>
+      <b>The State of Computing:</b> System attributes to performance, multiprocessors and multicomputer, shared memory and distributed memory, taxonomy of MIMD computers, multivector and SIMD computers, PRAM and VLSI models.\n\n<b>Parallelism:</b> Data and resource dependencies, hardware and software dependencies; Program Partitioning and Scheduling: grain sizes and latency, grain packaging and scheduling; Program Flow Mechanism: control flow versus data flow, demand driven mechanism, comparisons of flow mechanism; System Interconnect Architectures: network properties and routing, static connection networks.\n
+    </item>
+
+    <item>
+      <b>Performance Metrics and Measures:</b> Parallelism profile in programs, harmonic mean performance, efficiency, utilization and quantity, standard performance measures, Speedup Performance Law: Amdahl's law for fixed workload, Gustafson's law for scaled problems, scalability analysis and approaches, scalability metrics and goals, evolution of scalable computers.\n\n<b>Advance Processor Technology:</b> Design space of processors, instruction set architecture, CISC and RISC scalar processors; Superscalar and Vector processors: superscalar processors, the VLIW architecture, vector and symbolic processors; Memory Hierarchy Technology: hierarchical memory technology, inclusion, coherence and locality, memory capacity planning.\n
+    </item>
+
+    <item>
+      <b>Multiprocessor System Interconnects:</b> Hierarchical bus system, crossbar switch and, multiport memory, multistage and combining networks; cache coherence and synchronization mechanism, the cache coherence problem, snoopy bus protocol, directory based protocols, hardware synchronization mechanisms.\n\n
+
+      <b>Vector Processing Principles:</b> Vector instruction types, vector access memory schemes.\n\n
+
+      <b>Multivector Multiprocessors:</b> Performance directed design rules, Cray Y – MP, C-90 and MPP, SIMD computer organization: implementation models, the CM-2 architecture, introduction to multicore architecture.\n
+    </item>
+
+    <item>
+      <b>Parallel Programming Models:</b>  Shared variable model, message passing model, data parallel model, object oriented model, function and logic models.\n\n
+
+      <b>Parallel Language and Compilers:</b> Language feature for parallelism, parallel language constructs, optimizing compiler for parallelism.\n\n
+
+      <b>Parallel Programming Environment:</b>  Software tools and environment, Y-MP, Pargon and CM-5 environment, visualization and performance testing.\n\n
+
+      <b>Synchronization and Multiprocessing Modes:</b> Principles of synchronization, multiprocessor execution models, shared-variable program structures, locks for protected access, semaphores and applications, monitors and application, message-passing program development, distributing the computation, synchronous message passing, asynchronous message passing.\n\n
+
+      <b>Mapping Programs on to Multicomputer:</b> Domain decomposition techniques, control decomposition techniques, heterogeneous processing.\n
+    </item>
+
+
+    <item>
+      1. Kai Hawang: <i><b>"Advance Computer Architecture - Parallelism, Scalability and Programmability"</b></i>, McGraw Hill International Edition.\n
+      2. Michael J.Quinn: <i><b>"Parallel Computing - Theory and Practice"</b></i>, McGraw Hill International.\n
+    </item>
+
+    <item>
+      1. Sima: <i><b>"Advance Computer Architecture: A Design Space Approach"</b></i>, Pearson Publication.\n
+      2. Kain: <i><b>"Advance Computer Architecture"</b></i>, PHI Publication.\n
+      3. S.G. Akl: <i><b>"Design and Analysis of Parallel Algorithms"</b></i>, Prentice Hall, Englewood Cliff NJ.\n
+      4. S.K Ghosal: <i><b>"A Practical Appraoch to Parallel Computing"</b></i>, University Press (India) Ltd.\n
+    </item>
+
+
+  </string-array>
+
+  <string-array name="CS_703">
+    <item>
+      <b>The State of Computing:</b> System attributes to performance, multiprocessors and multicomputer, shared memory and distributed memory, taxonomy of MIMD computers, multivector and SIMD computers, PRAM and VLSI models.\n\n<b>Parallelism:</b> Data and resource dependencies, hardware and software dependencies; Program Partitioning and Scheduling: grain sizes and latency, grain packaging and scheduling; Program Flow Mechanism: control flow versus data flow, demand driven mechanism, comparisons of flow mechanism; System Interconnect Architectures: network properties and routing, static connection networks.\n
+    </item>
+
+    <item>
+      <b>Performance Metrics and Measures:</b> Parallelism profile in programs, harmonic mean performance, efficiency, utilization and quantity, standard performance measures, Speedup Performance Law: Amdahl's law for fixed workload, Gustafson's law for scaled problems, scalability analysis and approaches, scalability metrics and goals, evolution of scalable computers.\n\n<b>Advance Processor Technology:</b> Design space of processors, instruction set architecture, CISC and RISC scalar processors; Superscalar and Vector processors: superscalar processors, the VLIW architecture, vector and symbolic processors; Memory Hierarchy Technology: hierarchical memory technology, inclusion, coherence and locality, memory capacity planning.\n
+    </item>
+
+    <item>
+      <b>Multiprocessor System Interconnects:</b> Hierarchical bus system, crossbar switch and, multiport memory, multistage and combining networks; cache coherence and synchronization mechanism, the cache coherence problem, snoopy bus protocol, directory based protocols, hardware synchronization mechanisms.\n\n
+
+      <b>Vector Processing Principles:</b> Vector instruction types, vector access memory schemes.\n\n
+
+      <b>Multivector Multiprocessors:</b> Performance directed design rules, Cray Y – MP, C-90 and MPP, SIMD computer organization: implementation models, the CM-2 architecture, introduction to multicore architecture.\n
+    </item>
+
+    <item>
+      <b>Parallel Programming Models:</b>  Shared variable model, message passing model, data parallel model, object oriented model, function and logic models.\n\n
+
+      <b>Parallel Language and Compilers:</b> Language feature for parallelism, parallel language constructs, optimizing compiler for parallelism.\n\n
+
+      <b>Parallel Programming Environment:</b>  Software tools and environment, Y-MP, Pargon and CM-5 environment, visualization and performance testing.\n\n
+
+      <b>Synchronization and Multiprocessing Modes:</b> Principles of synchronization, multiprocessor execution models, shared-variable program structures, locks for protected access, semaphores and applications, monitors and application, message-passing program development, distributing the computation, synchronous message passing, asynchronous message passing.\n\n
+
+      <b>Mapping Programs on to Multicomputer:</b> Domain decomposition techniques, control decomposition techniques, heterogeneous processing.\n
+    </item>
+
+
+    <item>
+      1. Kai Hawang: <i><b>"Advance Computer Architecture - Parallelism, Scalability and Programmability"</b></i>, McGraw Hill International Edition.\n
+      2. Michael J.Quinn: <i><b>"Parallel Computing - Theory and Practice"</b></i>, McGraw Hill International.\n
+    </item>
+
+    <item>
+      1. Sima: <i><b>"Advance Computer Architecture: A Design Space Approach"</b></i>, Pearson Publication.\n
+      2. Kain: <i><b>"Advance Computer Architecture"</b></i>, PHI Publication.\n
+      3. S.G. Akl: <i><b>"Design and Analysis of Parallel Algorithms"</b></i>, Prentice Hall, Englewood Cliff NJ.\n
+      4. S.K Ghosal: <i><b>"A Practical Appraoch to Parallel Computing"</b></i>, University Press (India) Ltd.\n
+    </item>
+
+
+  </string-array>
+
+  <string-array name="CS_704">
+    <item>
+      <b>The State of Computing:</b> System attributes to performance, multiprocessors and multicomputer, shared memory and distributed memory, taxonomy of MIMD computers, multivector and SIMD computers, PRAM and VLSI models.\n\n<b>Parallelism:</b> Data and resource dependencies, hardware and software dependencies; Program Partitioning and Scheduling: grain sizes and latency, grain packaging and scheduling; Program Flow Mechanism: control flow versus data flow, demand driven mechanism, comparisons of flow mechanism; System Interconnect Architectures: network properties and routing, static connection networks.\n
+    </item>
+
+    <item>
+      <b>Performance Metrics and Measures:</b> Parallelism profile in programs, harmonic mean performance, efficiency, utilization and quantity, standard performance measures, Speedup Performance Law: Amdahl's law for fixed workload, Gustafson's law for scaled problems, scalability analysis and approaches, scalability metrics and goals, evolution of scalable computers.\n\n<b>Advance Processor Technology:</b> Design space of processors, instruction set architecture, CISC and RISC scalar processors; Superscalar and Vector processors: superscalar processors, the VLIW architecture, vector and symbolic processors; Memory Hierarchy Technology: hierarchical memory technology, inclusion, coherence and locality, memory capacity planning.\n
+    </item>
+
+    <item>
+      <b>Multiprocessor System Interconnects:</b> Hierarchical bus system, crossbar switch and, multiport memory, multistage and combining networks; cache coherence and synchronization mechanism, the cache coherence problem, snoopy bus protocol, directory based protocols, hardware synchronization mechanisms.\n\n
+
+      <b>Vector Processing Principles:</b> Vector instruction types, vector access memory schemes.\n\n
+
+      <b>Multivector Multiprocessors:</b> Performance directed design rules, Cray Y – MP, C-90 and MPP, SIMD computer organization: implementation models, the CM-2 architecture, introduction to multicore architecture.\n
+    </item>
+
+    <item>
+      <b>Parallel Programming Models:</b>  Shared variable model, message passing model, data parallel model, object oriented model, function and logic models.\n\n
+
+      <b>Parallel Language and Compilers:</b> Language feature for parallelism, parallel language constructs, optimizing compiler for parallelism.\n\n
+
+      <b>Parallel Programming Environment:</b>  Software tools and environment, Y-MP, Pargon and CM-5 environment, visualization and performance testing.\n\n
+
+      <b>Synchronization and Multiprocessing Modes:</b> Principles of synchronization, multiprocessor execution models, shared-variable program structures, locks for protected access, semaphores and applications, monitors and application, message-passing program development, distributing the computation, synchronous message passing, asynchronous message passing.\n\n
+
+      <b>Mapping Programs on to Multicomputer:</b> Domain decomposition techniques, control decomposition techniques, heterogeneous processing.\n
+    </item>
+
+
+    <item>
+      1. Kai Hawang: <i><b>"Advance Computer Architecture - Parallelism, Scalability and Programmability"</b></i>, McGraw Hill International Edition.\n
+      2. Michael J.Quinn: <i><b>"Parallel Computing - Theory and Practice"</b></i>, McGraw Hill International.\n
+    </item>
+
+    <item>
+      1. Sima: <i><b>"Advance Computer Architecture: A Design Space Approach"</b></i>, Pearson Publication.\n
+      2. Kain: <i><b>"Advance Computer Architecture"</b></i>, PHI Publication.\n
+      3. S.G. Akl: <i><b>"Design and Analysis of Parallel Algorithms"</b></i>, Prentice Hall, Englewood Cliff NJ.\n
+      4. S.K Ghosal: <i><b>"A Practical Appraoch to Parallel Computing"</b></i>, University Press (India) Ltd.\n
+    </item>
+
+
+  </string-array>
+
+  <string-array name="CS_705">
+    <item>
+      <b>The State of Computing:</b> System attributes to performance, multiprocessors and multicomputer, shared memory and distributed memory, taxonomy of MIMD computers, multivector and SIMD computers, PRAM and VLSI models.\n\n<b>Parallelism:</b> Data and resource dependencies, hardware and software dependencies; Program Partitioning and Scheduling: grain sizes and latency, grain packaging and scheduling; Program Flow Mechanism: control flow versus data flow, demand driven mechanism, comparisons of flow mechanism; System Interconnect Architectures: network properties and routing, static connection networks.\n
+    </item>
+
+    <item>
+      <b>Performance Metrics and Measures:</b> Parallelism profile in programs, harmonic mean performance, efficiency, utilization and quantity, standard performance measures, Speedup Performance Law: Amdahl's law for fixed workload, Gustafson's law for scaled problems, scalability analysis and approaches, scalability metrics and goals, evolution of scalable computers.\n\n<b>Advance Processor Technology:</b> Design space of processors, instruction set architecture, CISC and RISC scalar processors; Superscalar and Vector processors: superscalar processors, the VLIW architecture, vector and symbolic processors; Memory Hierarchy Technology: hierarchical memory technology, inclusion, coherence and locality, memory capacity planning.\n
+    </item>
+
+    <item>
+      <b>Multiprocessor System Interconnects:</b> Hierarchical bus system, crossbar switch and, multiport memory, multistage and combining networks; cache coherence and synchronization mechanism, the cache coherence problem, snoopy bus protocol, directory based protocols, hardware synchronization mechanisms.\n\n
+
+      <b>Vector Processing Principles:</b> Vector instruction types, vector access memory schemes.\n\n
+
+      <b>Multivector Multiprocessors:</b> Performance directed design rules, Cray Y – MP, C-90 and MPP, SIMD computer organization: implementation models, the CM-2 architecture, introduction to multicore architecture.\n
+    </item>
+
+    <item>
+      <b>Parallel Programming Models:</b>  Shared variable model, message passing model, data parallel model, object oriented model, function and logic models.\n\n
+
+      <b>Parallel Language and Compilers:</b> Language feature for parallelism, parallel language constructs, optimizing compiler for parallelism.\n\n
+
+      <b>Parallel Programming Environment:</b>  Software tools and environment, Y-MP, Pargon and CM-5 environment, visualization and performance testing.\n\n
+
+      <b>Synchronization and Multiprocessing Modes:</b> Principles of synchronization, multiprocessor execution models, shared-variable program structures, locks for protected access, semaphores and applications, monitors and application, message-passing program development, distributing the computation, synchronous message passing, asynchronous message passing.\n\n
+
+      <b>Mapping Programs on to Multicomputer:</b> Domain decomposition techniques, control decomposition techniques, heterogeneous processing.\n
+    </item>
+
+
+    <item>
+      1. Kai Hawang: <i><b>"Advance Computer Architecture - Parallelism, Scalability and Programmability"</b></i>, McGraw Hill International Edition.\n
+      2. Michael J.Quinn: <i><b>"Parallel Computing - Theory and Practice"</b></i>, McGraw Hill International.\n
+    </item>
+
+    <item>
+      1. Sima: <i><b>"Advance Computer Architecture: A Design Space Approach"</b></i>, Pearson Publication.\n
+      2. Kain: <i><b>"Advance Computer Architecture"</b></i>, PHI Publication.\n
+      3. S.G. Akl: <i><b>"Design and Analysis of Parallel Algorithms"</b></i>, Prentice Hall, Englewood Cliff NJ.\n
+      4. S.K Ghosal: <i><b>"A Practical Appraoch to Parallel Computing"</b></i>, University Press (India) Ltd.\n
+    </item>
+
+
+  </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="cse_5th_subjects">
+    <item>Computer Networks</item>
+    <item>Core Java</item>
+    <item>Computer Graphics</item>
+    <item>Artificial Intelligence &amp; Expert System</item>
+    <item>Software Engineering</item>
+    <item>Analysis &amp; Design of Algorithm</item>
+  </string-array>
+</resources>

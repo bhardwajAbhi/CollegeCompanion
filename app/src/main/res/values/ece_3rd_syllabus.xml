@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ece_3rd_subjects">
+    <item>Probability &amp; Statistics</item>
+    <item>Industrial Economics &amp; Management</item>
+    <item>Analog Electronics</item>
+    <item>Digital Electronics</item>
+    <item>Network Analysis &amp; Synthesis</item>
+    <item>Signals &amp; Systems</item>
+  </string-array>
+</resources>

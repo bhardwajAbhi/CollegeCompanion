@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/icon_notifications"
+            android:title="Notifications"/>
+        <item
+            android:id="@+id/nav_timetable"
+            android:icon="@drawable/icon_timetable"
+            android:title="Time Table" />
+        <item
+            android:id="@+id/nav_faculty"
+            android:icon="@drawable/icon_faculty"
+            android:title="Faculty" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/icon_events"
+            android:title="Events" />
+        <item
+            android:id="@+id/nav_syllabus"
+            android:icon="@drawable/icon_library"
+            android:title="Syllabus" />
+    </group>
+
+    <group android:id="@+id/menu_bottom">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/icon_profile"
+            android:title="Profile" />
+
+        <!--
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/icon_about"
+            android:title="About" />               -->
+
+        <item
+          android:id="@+id/nav_logout"
+          android:icon="@drawable/icon_logout"
+          android:title="Log Out" />
+    </group>
+
+
+</menu>

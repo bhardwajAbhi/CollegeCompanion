@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- Monday Time Table-->
+  <string-array name="Monday_ECE_7th">
+    <item>CN &amp; DC</item>
+    <item>WSN</item>
+    <item>Tea Break</item>
+    <item>GATE Classes</item>
+    <item>Lunch Break</item>
+    <item>VLSI Design</item>
+    <item>OC</item>
+    <item>Project</item>
+  </string-array>
+  <string-array name="time1_ECE_7th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM</item>
+    <item>03:00 PM - 04:00 PM</item>
+    <item>04:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+
+
+  <!-- Tuesday Time Table-->
+  <string-array name="Tuesday_ECE_7th">
+    <item>VLSI Design</item>
+    <item>WSN</item>
+    <item>Tea Break</item>
+    <item>GATE Classes</item>
+    <item>Lunch Break</item>
+    <item>G1 - VLSI Tute\nG1 - M&amp;RE Tute\nG1 - Library\nG2 - M&amp;OC Lab</item>
+  </string-array>
+  <string-array name="time2_ECE_7th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM\n03:00 PM - 04:00 PM\n04:00 PM - 05:00 PM\n02:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+
+  <!-- Wednesday Time Table-->
+  <string-array name="Wednesday_ECE_7th">
+    <item>OC</item>
+    <item>M&amp;RE</item>
+    <item>Tea Break</item>
+    <item>GATE Classes</item>
+    <item>Lunch Break</item>
+    <item>G1 - M&amp;OC Lab\nG2 - VLSI Tute\nG2 - M&amp;RE Tute\nG2 - Library</item>
+  </string-array>
+  <string-array name="time3_ECE_7th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 05:00 PM\n02:00 PM - 03:00 PM\n03:00 PM - 04:00 PM\n04:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+  <!-- Thursday Time Table-->
+  <string-array name="Thursday_ECE_7th">
+    <item>OC</item>
+    <item>CN&amp;DC</item>
+    <item>Tea Break</item>
+    <item>GATE Classes</item>
+    <item>Lunch Break</item>
+    <item>M&amp;RE</item>
+    <item>WSN</item>
+    <item>Project</item>
+  </string-array>
+  <string-array name="time4_ECE_7th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM</item>
+    <item>03:00 PM - 04:00 PM</item>
+    <item>04:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+  <!-- Friday Time Table-->
+  <string-array name="Friday_ECE_7th">
+    <item>VLSI Design</item>
+    <item>M&amp;RE</item>
+    <item>Tea Break</item>
+    <item>GATE Classes</item>
+    <item>Lunch Break</item>
+    <item>CN&amp;DC</item>
+    <item>Project</item>
+  </string-array>
+  <string-array name="time5_ECE_7th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM</item>
+    <item>03:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+
+  <!-- Saturday Time Table-->
+  <string-array name="Saturday_ECE_7th">
+    <item>GATE Classes</item>
+    <item>Tea Break</item>
+    <item>GATE Classes</item>
+    <item>Lunch Break</item>
+    <item>GATE Classes</item>
+  </string-array>
+  <string-array name="time6_ECE_7th">
+    <item>09:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 05:00 PM</item>
+  </string-array>
+
+</resources>

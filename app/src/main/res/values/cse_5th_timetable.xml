@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- Monday Time Table-->
+  <string-array name="Monday_CSE_5th">
+    <item>CN</item>
+    <item>CG</item>
+    <item>Tea Break</item>
+    <item>G1 - CN Lab\nG2 - ADA Tute\nG2 - SE Tute</item>
+    <item>Lunch Break</item>
+    <item>SE</item>
+    <item>G1 - Library\nG2 - CG Tute</item>
+    <item>GATE Classes</item>
+  </string-array>
+  <string-array name="time1_CSE_5th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 01:15 PM\n11:15 AM - 12:15 PM\n 12:15 PM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM</item>
+    <item>03:00 PM - 04:00 PM</item>
+    <item>04:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+
+
+  <!-- Tuesday Time Table-->
+  <string-array name="Tuesday_CSE_5th">
+    <item>Java</item>
+    <item>Library</item>
+    <item>Tea Break</item>
+    <item>G1 - SE Tute\nG1 - CG Tute\nG2 - CN Lab</item>
+    <item>Lunch Break</item>
+    <item>G1 - Library\nG2 - CG Tute</item>
+    <item>SE</item>
+    <item>GATE Classes</item>
+  </string-array>
+  <string-array name="time2_CSE_5th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 12:15 PM\n12:15 PM - 01:15 PM\n11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM</item>
+    <item>03:00 PM - 04:00 PM</item>
+    <item>04:00 PM - 05:00 PM</item>
+
+  </string-array>
+
+
+
+  <!-- Wednesday Time Table-->
+  <string-array name="Wednesday_CSE_5th">
+    <item>Java</item>
+    <item>CG</item>
+    <item>Tea Break</item>
+    <item>CN</item>
+    <item>Meeting</item>
+    <item>Lunch Break</item>
+    <item>ADA</item>
+    <item>G1 - Java Lab\nG2 - Library\nG2 - CN Tute</item>
+  </string-array>
+  <string-array name="time3_CSE_5th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 12:15 PM</item>
+    <item>12:15 PM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM</item>
+    <item>03:00 PM - 05:00 PM\n03:00 PM - 04:00 PM\n04:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+  <!-- Thursday Time Table-->
+  <string-array name="Thursday_CSE_5th">
+    <item>ADA</item>
+    <item>CN</item>
+    <item>Tea Break</item>
+    <item>CG</item>
+    <item>AI</item>
+    <item>Lunch Break</item>
+    <item>G1 - CN Tute\nG1 - CG Tute\nG2 - Java Lab</item>
+    <item>GATE Classes</item>
+  </string-array>
+  <string-array name="time4_CSE_5th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 12:15 PM</item>
+    <item>12:15 PM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM\n03:00 PM - 04:00 PM\n02:00 PM - 04:00 PM</item>
+    <item>04:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+  <!-- Friday Time Table-->
+  <string-array name="Friday_CSE_5th">
+    <item>ADA</item>
+    <item>AI</item>
+    <item>Tea Break</item>
+    <item>G1 - Library\nG1 - ADA Tute\nG2 - CG Lab</item>
+    <item>Lunch Break</item>
+    <item>SE</item>
+    <item>GATE Classes</item>
+  </string-array>
+  <string-array name="time5_CSE_5th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 12:15 PM\n12:15 PM - 01:15 PM\n11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 03:00 PM</item>
+    <item>03:00 PM - 05:00 PM</item>
+  </string-array>
+
+
+
+  <!-- Saturday Time Table-->
+  <string-array name="Saturday_CSE_5th">
+    <item>Java</item>
+    <item>AI</item>
+    <item>Tea Break</item>
+    <item>G1 - CG Lab\nG2 - Library</item>
+    <item>Lunch Break</item>
+    <item>GATE Classes</item>
+  </string-array>
+  <string-array name="time6_CSE_5th">
+    <item>09:00 AM - 10:00 AM</item>
+    <item>10:00 AM - 11:00 AM</item>
+    <item>11:00 AM - 11:15 AM</item>
+    <item>11:15 AM - 01:15 PM</item>
+    <item>01:15 PM - 02:00 PM</item>
+    <item>02:00 PM - 05:00 PM</item>
+  </string-array>
+
+</resources>

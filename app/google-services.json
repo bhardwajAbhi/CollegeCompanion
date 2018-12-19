@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "568675848986",
+    "firebase_url": "https://collegecompanion-bf808.firebaseio.com",
+    "project_id": "collegecompanion-bf808",
+    "storage_bucket": "collegecompanion-bf808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568675848986:android:95659117660e7f38",
+        "android_client_info": {
+          "package_name": "mobapps.avbgiet.com.collegecompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568675848986-963dokrj85mibui204ie60ss15m51j9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobapps.avbgiet.com.collegecompanion",
+            "certificate_hash": "71a57d1584f68430411c03c2dfc170fa60fb744b"
+          }
+        },
+        {
+          "client_id": "568675848986-3gjv5tc7smshjkvfngj1dkseq7nifint.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoppfkF1PlIiZBCSlQSnNYrPDY8JMU-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568675848986-3gjv5tc7smshjkvfngj1dkseq7nifint.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568675848986:android:1b7543520cb7b48d",
+        "android_client_info": {
+          "package_name": "mobapps.avbgiet.com.collegecompanionadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568675848986-8p7g7r1th4utuvhnbrb4jjc7ahc4e1c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobapps.avbgiet.com.collegecompanionadmin",
+            "certificate_hash": "71a57d1584f68430411c03c2dfc170fa60fb744b"
+          }
+        },
+        {
+          "client_id": "568675848986-3gjv5tc7smshjkvfngj1dkseq7nifint.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoppfkF1PlIiZBCSlQSnNYrPDY8JMU-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568675848986-3gjv5tc7smshjkvfngj1dkseq7nifint.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
