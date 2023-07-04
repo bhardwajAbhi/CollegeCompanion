@@ -20,3 +20,6 @@ Following are some screenshots of the application implemented on smartphone side
 [![Trending topics](https://images.repography.com/26210777/bhardwajAbhi/CollegeCompanion/recent-activity/34fac93d14f330d1b85ed472820fceec_words.svg)](https://github.com/bhardwajAbhi/CollegeCompanion/commits)
 [![Top contributors](https://images.repography.com/26210777/bhardwajAbhi/CollegeCompanion/recent-activity/34fac93d14f330d1b85ed472820fceec_users.svg)](https://github.com/bhardwajAbhi/CollegeCompanion/graphs/contributors)
 
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/CollegeCompanion/count.svg" alt ="Loading">
